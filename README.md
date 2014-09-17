@@ -1,4 +1,4 @@
 esimRepo
 ========
 
-Ely koulutus
+Ely koulutus.
